@@ -20,6 +20,12 @@ IAST predicts mixed-gas adsorption from pure-component adsorption isotherms. In 
 
 Huang et al. reported CH4/N2 selectivity of approximately 17.2 at 273 K and 11.7 at 298 K for Al-Fumarate at 1 bar using IAST.
 
+## IAST Conclusion
+
+IAST converts pure-gas adsorption data into mixed-gas separation predictions. Using CH₄ and N₂ isotherms from Huang et al. (2022), the model predicts strong methane preference in Al-Fumarate and reproduces the reported CH₄/N₂ selectivity near ambient conditions (~11.7 at 298 K).
+
+Huang, Z., Hu, P., Liu, X., Shen, Y., Zhang, Z., Chai, Y., Ying, Y., Kang, Z., Zhang, J., & Ji, H. (2022). Enhancing CH₄/N₂ separation performance within aluminum-based metal–organic frameworks: Influence of pore structure and linker polarity. Separation and Purification Technology, 287, 120534. DOI: 10.1016/j.seppur.2022.120534
+
 ## Scripts
 
 - scripts/reproduce_huang.py: reproduces literature benchmark selectivities.
