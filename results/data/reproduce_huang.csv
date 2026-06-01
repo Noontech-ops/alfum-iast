@@ -1,0 +1,4 @@
+Temperature_K,CH4_loading_mmol_g,N2_loading_mmol_g,CH4_N2_selectivity,Literature_selectivity,Percent_error_vs_literature,Reliability_note
+273,0.9279220663840674,0.025474313168313577,36.42579331788503,17.2,111.77786812723855,validation target but may be sensitive to low-loading N2 interpolation
+298,0.5432897790888916,0.05134884766682388,10.580369448872895,11.7,9.569491889975247,primary validated ambient case
+313,0.4287604468577084,0.006651522729161626,64.46049488456765,,,"sensitivity only, not literature validation"
